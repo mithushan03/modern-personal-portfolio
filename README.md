@@ -15,3 +15,4 @@ Portfolio content lives in `src/data/portfolio.js`.
 
 The intro background video is `public/assets/intro-video.mp4`, and the hero poster image is `public/assets/hero-poster.jpg`.
 # modern-personal-portfolio
+# modern-personal-portfolio
