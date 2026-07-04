@@ -1,0 +1,41 @@
+import {
+  BadgeCheck,
+  Braces,
+  Briefcase,
+  CircuitBoard,
+  Cloud,
+  Code2,
+  Cpu,
+  Github,
+  GraduationCap,
+  Instagram,
+  Linkedin,
+  Mic2,
+  Monitor,
+  Network,
+  SquareTerminal,
+  Thermometer,
+  Wrench,
+  Zap
+} from "lucide-react";
+
+export const iconMap = {
+  BadgeCheck,
+  Braces,
+  Briefcase,
+  CircuitBoard,
+  Cloud,
+  Code2,
+  Cpu,
+  Github,
+  GraduationCap,
+  Instagram,
+  Linkedin,
+  Mic2,
+  Monitor,
+  Network,
+  SquareTerminal,
+  Thermometer,
+  Wrench,
+  Zap
+};
